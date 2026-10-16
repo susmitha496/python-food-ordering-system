@@ -1,15 +1,12 @@
 # Food Ordering Management System
 
-## About the Project
-A console-based Food Ordering Management System developed using Python. This project allows users to interact with a menu-driven application for food ordering.
-## Technologies Used
-- Python 3
-- Core Python
-## Features
-- Menu-driven console interface
-- Food selection
-- Order processing
-- Bill calculation
+**Food Ordering Management System | Python**
+- Developed a console-based food ordering application using Python.
+- Implemented menu display, food selection, and multiple-item ordering.
+- Added bill calculation functionality to calculate the total order amount.
+- Applied Python fundamentals, including conditional statements, loops, and user input handling.
+
+**Technologies:** Python 3, Core Python  
 ## How to Run
 1. Install Python 3.
 2. Clone or download this repository.
